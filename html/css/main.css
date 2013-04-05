@@ -1,0 +1,21 @@
+body, .main {
+	text-align: center;
+}
+
+.main {
+	margin: auto;
+	width: 600px;
+}
+
+#contact {
+	text-align: right;
+}
+#contact a {
+	color: #777;
+	text-decoration: none;
+	font-family: helvetica;
+}
+
+a:hover {
+	text-decoration: underline;
+}
